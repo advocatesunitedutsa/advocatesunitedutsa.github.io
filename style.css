@@ -14,8 +14,15 @@ animation: gradient 5s ease infinite;
 color: #f5c2e7;
  }
 
- .pfp {
+.pfp {
     border-radius: 45px;
     margin-left: auto;
     margin-right: auto;
    }
+
+.pfpdiv {
+    display: block;
+    margin-left: auto;
+    width: 13.5em;
+    margin-right: auto 
+}
