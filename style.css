@@ -13,3 +13,9 @@ background-size: 400% 400%;
 animation: gradient 5s ease infinite;
 color: #f5c2e7;
  }
+
+ .pfp {
+    border-radius: 45px;
+    margin-left: auto;
+    margin-right: auto;
+   }
